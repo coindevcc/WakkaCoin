@@ -1,0 +1,9 @@
+Building WakkaCoin
+
+See doc/readme-qt.rst for instructions on building WakkaCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WakkaCoin.
+
+See doc/build-*.txt for instructions on building WakkaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WakkaCoin.
